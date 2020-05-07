@@ -1,0 +1,25 @@
+<resources>
+    <string name="app_name">myPokemon</string>
+    <string name="navigation_drawer_open">打开工具栏</string>
+    <string name="navigation_drawer_close">关闭工具栏</string>
+    <string name="nav_header_title">游鱼星的pokemon查询器</string>
+    <string name="nav_header_subtitle">zjufishboy@zju.edu.cn</string>
+    <string name="nav_header_desc">导航栏</string>
+    <string name="action_settings">设置</string>
+
+    <string name="menu_home">主页</string>
+    <string name="menu_directory">图鉴</string>
+    <string name="menu_new">新闻</string>
+    <string name="menu_tools">工具</string>
+    <string name="menu_share">反馈</string>
+    <string name="menu_send">发送</string>
+
+    <string name="home">主页</string>
+    <string name="directory">图鉴</string>
+    <string name="news">新闻</string>
+    <string name="tools">工具</string>
+    <string name="share">分享</string>
+    <string name="send">反馈</string>
+
+
+</resources>
